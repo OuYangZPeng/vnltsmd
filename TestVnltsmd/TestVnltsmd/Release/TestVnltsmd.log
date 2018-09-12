@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  TestVnltsmd.cpp
+    正在创建库 F:\Important\Project\TestVnltsmd\Release\TestVnltsmd.lib 和对象 F:\Important\Project\TestVnltsmd\Release\TestVnltsmd.exp
+  正在生成代码
+  All 2062 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  TestVnltsmd.vcxproj -> F:\Important\Project\TestVnltsmd\Release\TestVnltsmd.dll
